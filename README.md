@@ -1,1 +1,1 @@
-My Portfolio from Frontend DevelopmenT
+My Portfolio from Frontend Development
